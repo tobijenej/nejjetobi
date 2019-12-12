@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+}
+img{
+   border-radius: 50%;
+    
+}
+body{
+    text-align: center;
+    background-color: blueviolet;
+}
+.img:hover{
+    box-shadow: aqua;
+
+}
+
